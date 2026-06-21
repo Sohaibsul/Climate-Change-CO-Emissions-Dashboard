@@ -16,7 +16,7 @@ This dashboard transforms climate-related data into meaningful visual insights, 
 
 ## Deep Analysis Dashboard
 
-![Dashboard Page 2](image2.jped)
+![Dashboard Page 2](image2.jpeg)
 
 ---
 
