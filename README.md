@@ -12,11 +12,11 @@ This dashboard transforms climate-related data into meaningful visual insights, 
 
 ## Executive Overview Dashboard
 
-![Dashboard Page 1](image1.png)
+![Dashboard Page 1](image1.jpeg)
 
 ## Deep Analysis Dashboard
 
-![Dashboard Page 2](image2.png)
+![Dashboard Page 2](image2.jped)
 
 ---
 
